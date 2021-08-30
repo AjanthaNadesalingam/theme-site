@@ -58,13 +58,13 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "First Lastname"
+  name   : "Ajantha Nadesalingam"
   avatar : "/assets/images/Ajantha Portrait.jpg"
   bio    : "My awesome biography constrained to a sentence or two goes here."
   links:
-    - label: "Website"
+    - label: "Contact me"
       icon: "fas fa-fw fa-link"
-      url: "https://"
+      url: "https://calendly.com/ajantha-nadesalingam"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/"
