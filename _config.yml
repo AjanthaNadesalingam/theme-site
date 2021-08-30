@@ -62,7 +62,7 @@ author:
   avatar : "/assets/images/Ajantha Portrait.jpg"
   bio    : "My awesome biography constrained to a sentence or two goes here."
   links:
-    - label: "Contact me"
+    - label: "Contact"
       icon: "fas fa-fw fa-link"
       url: "https://calendly.com/ajantha-nadesalingam"
     - label: "Twitter"
